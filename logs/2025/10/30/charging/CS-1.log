@@ -1,0 +1,21 @@
+2025-10-30T11:46:51.329316700+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:46:51.330317300+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:46:51.332314900+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
+2025-10-30T11:54:57.057878200+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:54:57.060876800+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:54:57.063877100+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
+2025-10-30T11:55:28.708869500+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='A', type=LOAD, status=RUNNING, payload={}}
+2025-10-30T11:55:28.709870+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='A', type=LOAD, status=DONE, payload={}}
+2025-10-30T11:55:28.710873600+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='B', type=UNLOAD, status=RUNNING, payload={}}
+2025-10-30T11:55:28.711873800+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='B', type=UNLOAD, status=DONE, payload={}}
+2025-10-30T11:55:28.731870300+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='Y', type=CHARGE, status=RUNNING, payload={}}
+2025-10-30T11:55:28.732877900+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='Y', type=CHARGE, status=DONE, payload={}}
+2025-10-30T11:55:49.284556900+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='T2', type=TRANSFER, status=RUNNING, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:55:49.285562800+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='T2', type=TRANSFER, status=DONE, payload={from=CONVEYOR-1, to=VEHICLE:TUG-07}}
+2025-10-30T11:55:49.287561600+01:00 [INFO] [charging:CS-1 | Charger 1] Charging started for TUG-07
+2025-10-30T11:56:04.016894500+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='A', type=LOAD, status=RUNNING, payload={}}
+2025-10-30T11:56:04.018899200+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='A', type=LOAD, status=DONE, payload={}}
+2025-10-30T11:56:04.019895200+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='B', type=UNLOAD, status=RUNNING, payload={}}
+2025-10-30T11:56:04.020895+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='B', type=UNLOAD, status=DONE, payload={}}
+2025-10-30T11:56:04.044898200+01:00 [INFO] [charging:CS-1 | Charger 1] Task RUNNING: Task{id='Y', type=CHARGE, status=RUNNING, payload={}}
+2025-10-30T11:56:04.046898600+01:00 [INFO] [charging:CS-1 | Charger 1] Task DONE: Task{id='Y', type=CHARGE, status=DONE, payload={}}
