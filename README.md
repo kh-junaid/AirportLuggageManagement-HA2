@@ -7,8 +7,8 @@
 
 | Team Member | Role / Responsibility | Key Files |
 |--------------|----------------------|-----------|
-| **Mohammed** | Unit Testing Lead – builds JUnit tests for all classes and runs the suite | `AllTests.java`, `TaskTest.java`, `LoggerTest.java`, etc. |
-| **Ali** | Exception Handling Lead – implements and demonstrates all exception types | `AppExceptions.java` |
+| **Mohammed** | Unit Testing Lead – builds JUnit tests for all classes and runs the suite | `AllTests.java`, `TaskTest.java`, `TaskManagerTest.java` |
+| **Ali** | Exception Handling Lead – implements and demonstrates all exception types | `AppExceptions.java`, `LoggerTest.java` |
 | **Junaid** | Integration & Quality Assurance Lead – integrates exceptions and tests into the system | `Main.java`, `TESTING_REPORT.md` |
 
 ---
